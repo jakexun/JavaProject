@@ -119,7 +119,7 @@ public class Tools {
     }
 
 
-    public static String[][] OnedimensToTwodimens(String class_kd1){
+    public String[][] OnedimensToTwodimens(String class_kd1){ //一维数组转二维数组
         String[] line = class_kd1.split("\n");
         String[] unit = line[0].split(",");
         String[][] class_kd2 = new String[line.length][unit.length];
@@ -157,16 +157,42 @@ public class Tools {
         return Numb_Array_Sum(every_cla_intracla);//求fitness:类内距离/类间距离之和
     }
 
-    public static int FindCentral(String[][] data){ //找到中心点并返回中心点位置(下标)
+    public int Find_Central(String[][] data){ //找到中心点并返回中心点位置(下标)
         double[][] distance_e_p=new double[data.length][data.length];
         for (int i=0;i<data.length;i++){
             for (int j = 0;j<data.length;j++){
                 if (i!=j){
-                    distance_e_p[i][j] = distance(data[i],data[j]);
+                    distance_e_p[i][j] = distance(data[i],data[j]); //求出所有点与其他所有点的距离
+                }else{
+                    distance_e_p[i][j] = 0;
                 }
             }
         }
-        return 0;
+
+        /*for (int i = 0; i < distance_e_p.length;i++){ //测试
+            for (int j = 0; j < distance_e_p.length;j++){ // 寻找与其他点距离之和最短的点
+                System.out.print(distance_e_p[i][j]+" ");
+            }
+            System.out.println();
+        }*/
+
+        double min=0;
+        int k=0;
+        for (int i = 0; i < distance_e_p.length;i++){
+            double sum=0;
+            for (int j = 0; j < distance_e_p.length;j++){ // 寻找与其他点距离之和最短的点
+                sum += distance_e_p[i][j];
+            }
+            if(i == 0){
+//                System.out.println(sum); //测试
+                min = sum;
+            }else if(sum < min){
+                min = sum;
+                k = i;
+//                System.out.println(sum); //测试
+            }
+        }
+        return k;
     }
     /*public static void main(String[] args) {
         String[][] data=Initia_data(399000,56);

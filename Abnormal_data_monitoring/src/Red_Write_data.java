@@ -42,16 +42,16 @@ public class Red_Write_data {
             }
             line += "\n";
             if ((i+1)%100==0){
-                Writeline(file,line);
+                Write_line(file,line);
                 line = "";
                 System.out.println("已经处理了"+((i+1)/100)+"00条数据！");
             }
         }
         if (i%100!=0)
-            Writeline(file,line);
+            Write_line(file,line);
     }
 
-    public static void Writeline(String file,String line){ //当前类中使用的函数工具
+    public static void Write_line(String file,String line){ //当前类中使用的函数工具
         BufferedWriter out = null;
         try {
             out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(file, true)));
