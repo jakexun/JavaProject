@@ -2,19 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadfd071-e1f2-4067-a97e-0422253992d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Data_normalizing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Statistical_f_max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/ReadWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Read_Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abnormal monitoring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abnormal monitoring/Abnormal_data_monitoring 2/Finished_cleaning.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abnormal monitoring/Abnormal_data_monitoring 2/src/Tongji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring (kdd)/src/Data_normalizing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring (kdd)/src/Statistical_f_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring 2/Finished_cleaning.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring 2/src/Remove_duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring 2/src/Tongji.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring 2/src/new_test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Abnormal_data_monitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Abnormal_data_monitoring.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Tools.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Abnormal_data_monitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Abnormal_data_monitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/ReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/ReadWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Read_Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Read_Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abnormal_data_monitoring/src/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abnormal_data_monitoring_kdd/Abnormal_data_monitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Abnormal_data_monitoring_kdd/Abnormal_data_monitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Abnormal_data_monitoring_kdd/Administrator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Abnormal_data_monitoring_kdd/Administrator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_max.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_min.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_result_max.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run_result_max.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_result_min.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run_result_min.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abnormal_data_monitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abnormal_data_monitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abnormal monitoring/Abnormal_data_monitoring 2/src/Tongji.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abnormal monitoring/Abnormal_data_monitoring 2/src/Tongji.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -154,91 +168,115 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="1231719059">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="15" />
+          <entry key="txt" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="15" />
+          <entry key="PLAIN_TEXT" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="922" />
+          <entry key="txt" value="69" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="922" />
+          <entry key="PLAIN_TEXT" value="69" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReadWrite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" selection-start-line="15" selection-end-line="16" />
+            <state relative-caret-position="325">
+              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Statistical_f_min.java">
+        <entry file="file://$PROJECT_DIR$/normalized_data.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="388">
+              <caret line="77291" selection-start-line="77291" selection-end-line="77291" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Read_result.java">
+        <entry file="file://$PROJECT_DIR$/src/Tools.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="189">
+              <caret line="200" column="21" lean-forward="true" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Statistical_f_max.java">
+        <entry file="file://$PROJECT_DIR$/src/Red_Write_data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="189">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Abnormal_data_monitoring.java">
+        <entry file="file://$PROJECT_DIR$/Finished_cleaning.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
+            <state relative-caret-position="3142">
+              <caret line="77291" selection-start-line="77291" selection-end-line="77291" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Abnormal_data_monitoring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="91" column="33" lean-forward="true" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Administrator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_result_max.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/result_min.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3888" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/result_max.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1377" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_result_min.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="27">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -277,6 +315,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Abnormal_data_monitoring.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -287,24 +328,24 @@
         <option value="$PROJECT_DIR$/result2.txt" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/run_result.txt" />
-        <option value="$PROJECT_DIR$/src/ReadWrite.java" />
         <option value="$PROJECT_DIR$/src/Tongji.java" />
         <option value="$PROJECT_DIR$/src/Administor.java" />
         <option value="$PROJECT_DIR$/src/Statistical.java" />
         <option value="$PROJECT_DIR$/src/Read_Result.java" />
         <option value="$PROJECT_DIR$/src/Read_result.java" />
         <option value="$PROJECT_DIR$/src/new_test.java" />
-        <option value="$PROJECT_DIR$/src/Tools.java" />
         <option value="$PROJECT_DIR$/run_result2.txt" />
         <option value="$PROJECT_DIR$/run_result1.txt" />
         <option value="$PROJECT_DIR$/src/Statistical2.java" />
         <option value="$PROJECT_DIR$/src/Statistical1.java" />
-        <option value="$PROJECT_DIR$/src/Administrator.java" />
-        <option value="$PROJECT_DIR$/src/Abnormal_data_monitoring.java" />
-        <option value="$PROJECT_DIR$/run_result_min.txt" />
-        <option value="$PROJECT_DIR$/run_result_max.txt" />
         <option value="$PROJECT_DIR$/src/Statistical_f_max.java" />
         <option value="$PROJECT_DIR$/src/Statistical_f_min.java" />
+        <option value="$PROJECT_DIR$/src/Administrator.java" />
+        <option value="$PROJECT_DIR$/run_result_min.txt" />
+        <option value="$PROJECT_DIR$/run_result_max.txt" />
+        <option value="$PROJECT_DIR$/src/ReadWrite.java" />
+        <option value="$PROJECT_DIR$/src/Tools.java" />
+        <option value="$PROJECT_DIR$/src/Abnormal_data_monitoring.java" />
       </list>
     </option>
   </component>
@@ -321,28 +362,28 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Abnormal_data_monitoring (kdd)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Abnormal_data_monitoring (kdd)" type="462c0819:PsiDirectoryNode" />
+              <item name="Abnormal_data_monitoring_kdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abnormal_data_monitoring_kdd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Abnormal_data_monitoring (kdd)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Abnormal_data_monitoring (kdd)" type="462c0819:PsiDirectoryNode" />
+              <item name="Abnormal_data_monitoring_kdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Abnormal_data_monitoring_kdd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538652721253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538748019312" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -368,7 +409,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Abnormal_data_monitoring">
     <configuration name="Abnormal_data_monitoring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abnormal_data_monitoring" />
       <module name="Abnormal_data_monitoring_kdd" />
@@ -404,53 +445,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Abnormal_data_monitoring_kdd" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Abnormal_data_monitoring_kdd" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Abnormal_data_monitoring" />
       <item itemvalue="Application.ReadWrite" />
@@ -460,11 +454,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Statistical_f_min" />
-        <item itemvalue="Application.Statistical_f_max" />
-        <item itemvalue="Application.Administrator" />
         <item itemvalue="Application.Abnormal_data_monitoring" />
         <item itemvalue="Application.ReadWrite" />
+        <item itemvalue="Application.Administrator" />
+        <item itemvalue="Application.Statistical_f_min" />
+        <item itemvalue="Application.Statistical_f_max" />
       </list>
     </recent_temporary>
   </component>
@@ -485,7 +479,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13752665" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -494,7 +488,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -531,6 +525,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="file://$PROJECT_DIR$/run_result.txt" />
+    <entry file="file://$PROJECT_DIR$/result2.txt" />
+    <entry file="file://$PROJECT_DIR$/result1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/new_test.java" />
+    <entry file="file://$PROJECT_DIR$/result_min.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_max.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Remove_duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data_normalizing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Statistical_f_min.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="59" column="1" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Statistical_f_max.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Abnormal_data_monitoring_kdd.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -538,76 +571,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/run_result_max.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_result_min.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Read_result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Finished_cleaning.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="3142">
+          <caret line="77291" selection-start-line="77291" selection-end-line="77291" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/normalized_data.txt">
+    <entry file="file://$PROJECT_DIR$/test_data.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
+    <entry file="file://$PROJECT_DIR$/normalized_data.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="3000" selection-start-line="3000" selection-end-line="3000" />
+        <state relative-caret-position="388">
+          <caret line="77291" selection-start-line="77291" selection-end-line="77291" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_result.txt">
+    <entry file="file://$PROJECT_DIR$/classify[0].txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Data_normalizing.java">
+    <entry file="file://$PROJECT_DIR$/classify[1].txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify[2].txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadWrite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+        <state relative-caret-position="325">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result2.txt">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="2978" lean-forward="true" selection-start-line="2978" selection-end-line="2978" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="239" lean-forward="true" selection-start-line="239" selection-end-line="239" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/new_test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="189">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Red_Write_data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        <state relative-caret-position="189">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Remove_duplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/Administrator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        <state relative-caret-position="27">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tools.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3456">
-          <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+        <state relative-caret-position="189">
+          <caret line="200" column="21" lean-forward="true" selection-start-line="200" selection-start-column="21" selection-end-line="200" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -616,67 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Abnormal_data_monitoring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReadWrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" selection-start-line="15" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_min.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3888" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_max.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1377" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Read_result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Statistical_f_max.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_result_max.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Statistical_f_min.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_result_min.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Administrator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        <state relative-caret-position="298">
+          <caret line="91" column="33" lean-forward="true" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
         </state>
       </provider>
     </entry>

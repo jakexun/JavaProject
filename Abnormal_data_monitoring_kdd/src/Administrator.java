@@ -1,7 +1,7 @@
 import java.io.File;
 public class Administrator {
     public static void main(String[] args) {
-        int times=1;//times是你要进行数据异常检测的次数
+        int times=300;//times是你要进行数据异常检测的次数
         for (int i = 0;i<times;i++){
             File file_test_data = new File("test_data.txt");
             File file_result1 = new File("result_min.txt");

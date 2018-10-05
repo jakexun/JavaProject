@@ -11,7 +11,10 @@ public class Tools {
         for(int i = 0;i < data_str.length; i++){
             String[] line = data_str[i].split(",");
             for(int j=0;j < line.length; j++){
+//                System.out.println(i);
+//                System.out.println(j);
                 data[i][j] = line[j];
+//                System.out.println(j);
             }
         }
 
@@ -23,10 +26,10 @@ public class Tools {
         int r = data.length;
         int c = data[0].length;
         double[][] scope = new double[2][c];
-        int[] j0=new int[3],j5=new int[3];
+//        int[] j0=new int[3],j5=new int[3];   // ##统计过于过于偏数据集中区域的区间内的数据条数
         for(int j = 0;j < c;j++){
             for(int i = 0; i < r;i++){
-                if (j!=1&&j!=2&&j!=3&&j!=41&&j!=42){
+                if (j!=1&&j!=2&&j!=3&&j!=41&&j!=42&&j!=43){
                     if(i == 0){
                         scope[0][j] = Double.parseDouble(data[i][j]); //初始化scope[0]
                         scope[1][j] = Double.parseDouble(data[i][j]);   //初始化scope[1]
@@ -39,20 +42,20 @@ public class Tools {
                             }
                         }
                 }
-                if (j==0&&Double.parseDouble(data[i][j])<2051){
+                /*if (j==0&&Double.parseDouble(data[i][j])<2051){
                     j0[0]++;
                 }else if (j==0&&Double.parseDouble(data[i][j])<2051&&Double.parseDouble(data[i][j])<4102){
                     j0[1]++;
-                }else if (j==0&&Double.parseDouble(data[i][j])>4102/*&&Double.parseDouble(data[i][j])<6153*/){
+                }else if (j==0&&Double.parseDouble(data[i][j])>4102*//*&&Double.parseDouble(data[i][j])<6153*//*){ //统计过于过于偏数据集中区域的区间内的数据条数
                     j0[2]++;
                 }
                 if (j==5&&Double.parseDouble(data[i][j])<42608){
                     j5[0]++;
                 }else if (j==5&&Double.parseDouble(data[i][j])<42608&&Double.parseDouble(data[i][j])<127825){
                     j5[1]++;
-                }else if (j==5&&Double.parseDouble(data[i][j])>127825/*&&Double.parseDouble(data[i][j])<383476*/){
+                }else if (j==5&&Double.parseDouble(data[i][j])>127825*//*&&Double.parseDouble(data[i][j])<383476*//*){
                     j5[2]++;
-                }
+                }*/
             }
         }
         /*for (int i = 0;i<j0.length;i++){
@@ -74,9 +77,9 @@ public class Tools {
         for (int i = 0;i<point1.length;i++){
                 System.out.print(point1[i]+" ");
         }*/
-        if(point1.length==43&&point2.length==43)
+        if(point1.length==44&&point2.length==44)
             for(int i = 0;i < point1.length;i++){
-                if (i!=1&&i!=2&&i!=3&&i!=41&&i!=42) {
+                if (i!=1&&i!=2&&i!=3&&i!=41&&i!=42&&i!=43) {
                     diff_value2 = (Double.parseDouble(point1[i]) - Double.parseDouble(point2[i])) * (Double.parseDouble(point1[i]) - Double.parseDouble(point2[i]));
                     sum_diff += diff_value2;
                 }
@@ -96,7 +99,7 @@ public class Tools {
         return min_k;
     }
 
-    public static String ArrayToString(String[] s) { //4功能函数，将double类型的数组转化成字符串
+    public static String ArrayToString(String[] s) { //4将一个字符串数组转化为一个以\n结尾的字符串
         String str= null,strtmp=""+s[0];
         for(int i=1;i < s.length;i++){
             str = strtmp+","+s[i];
@@ -106,23 +109,27 @@ public class Tools {
     }
 
     //对data中的点进行分类，分类完成后返回一个分完类的字符数组，数组下标表示类名
-    public String[] classify(String[][] data,String[][] pointk){  // 5not finished
+    public int[] classify(String[][] data,String[][] pointk){  // 5not finished
+        Red_Write_data rwd = new Red_Write_data();
         int k = pointk.length; //k的值
         int n = data.length; //表示点的个数
         double[] dis = new double[k]; //min_dis表示一个点与ki的距离
         int ki; //表示哪个中心(0~k)
-        String[] str =new String[k]; //分类后的状态
+        String[] str = new String[k]; //分类后的类文件名String数组
         for(int i=0;i<str.length;i++){
-            str[i]="";
+            str[i]="classify["+i+"].txt";
         }
+        int[] result = new int[k];
         for(int i=0;i < n;i++){
             for(int j =0;j < k;j++){
                 dis[j] = distance(data[i],pointk[j]);
             }
-            String st = str[min_distance_k(dis)];
-            str[min_distance_k(dis)] = st + ArrayToString(data[i]);
+            result[min_distance_k(dis)]++;
+            /*String st = str[min_distance_k(dis)];*/
+            rwd.Write_line(str[min_distance_k(dis)],ArrayToString(data[i]));
+            /*str[min_distance_k(dis)] = st + ArrayToString(data[i]);*/
         }
-        return str;
+        return result;
     }
     public static double R_dom(double a, double b){ //6随机生成a,到b之间的一个double类型的数
         if(a == b)
@@ -146,7 +153,6 @@ public class Tools {
     public String[][] Creating_chromosomeK(double scope[][],int k){ //7
         java.text.DecimalFormat   df=new   java.text.DecimalFormat("#.#####");
         String[][] chromosomeK = new String[k][scope[0].length];
-
         for (int j = 0;j < scope[0].length;j++){
             for (int i = 0; i < k; i++){
                     chromosomeK[i][j] = String.valueOf(df.format(R_dom(scope[0][j],scope[1][j])));
@@ -189,9 +195,12 @@ public class Tools {
         return distance_e_p;
     }
 
-    public double Fitness(String class_kd1, String[][] ki ,int k){ // 10求以k点为中心的簇的fitness的值
+    public double Fitness(int k,String[][] ki,int row,int column){ // 10求以k点为中心的簇的fitness的值
         //求类内距离
-        String[][] class_kd2 = OnedimensToTwodimens(class_kd1);
+        if (row==0)
+            return 0;
+        String filepath = "classify["+k+"].txt";
+        String[][] class_kd2 = Initia_data(filepath,row,column);
         double[] distance_point = new double[class_kd2.length];
         for (int i=0; i<class_kd2.length;i++){
             distance_point[i]=distance(class_kd2[i],ki[k]);
@@ -214,8 +223,11 @@ public class Tools {
         return Numb_Array_Sum(every_cla_intracla);//求fitness:类内距离/类间距离之和
     }
 
-    public String[] Find_Central(String[] classify,int ki){ //11找到中心点并返回中心点位置(下标)
-        String[][] classify_k =OnedimensToTwodimens(classify[ki]);
+    public String[] Find_Central(int ki,int row,int column){ //11找到中心点并返回中心点位置(下标)
+        if (row == 0)
+            return null;
+        String filepath = "classify["+ki+"].txt";
+        String[][] classify_k =Initia_data(filepath,row,column);
         /*for (int i = 0;i < classify_k.length; i++){
             for (int j = 0;j < classify_k[0].length;j++){
                 System.out.print(classify_k[i][j]+" ");
