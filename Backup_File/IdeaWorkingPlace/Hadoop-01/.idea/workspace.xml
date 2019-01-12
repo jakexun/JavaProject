@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ad741bd-20eb-428a-8c2f-85ccbb9ddec0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/Configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/src/com/kmeans/Administor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/src/com/kmeans/CreateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/src/com/kmeans/K_means.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/src/com/kmeans/Read_Write_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/src/com/kmeans/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/src/nwun/ml/dmt/DecisionMakingTreeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/src/nwun/ml/dmt/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/watermelon_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/watermelon_data_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decision-Making_Tree/watermelon_data_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/Configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/K-means.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/src/com/kmeans/Administor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/src/com/kmeans/CreateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/src/com/kmeans/K_means.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/src/com/kmeans/Read_Write_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../K-means/src/com/kmeans/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kdd_new_program/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_method/bigdata_presiding_judge_kdd/classify[max3].txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_method/bigdata_presiding_judge_salary/normalized_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_method/bigdata_presiding_judge_salary/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_method/bigdata_presiding_judge_salary/salary_result.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_method/bigdata_presiding_judge_salary/to_identify_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_method/bigdata_presiding_judge_salary/train_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring (kdd)/src/Data_normalizing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring (kdd)/src/Statistical_f_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring 2/Finished_cleaning.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring 2/src/Remove_duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring 2/src/Tongji.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring 2/src/new_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Abnormal_data_monitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Abnormal_data_monitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Tools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/Abnormal_data_monitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/Abnormal_data_monitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/ReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/ReadWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/Read_Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/Read_Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring/src/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[3].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[max]_statistical.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[min0].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[min]_statistical.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Abnormal_data_monitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Abnormal_data_monitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Administrator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Administrator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/ReadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/ReadWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Tools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/run_result_max_before.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/run_result_min_before.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Abnormal_data_monitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Abnormal_data_monitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Statistical_all.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/Abnormal_data_monitoring_kdd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/Finished_cleaning.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/central.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[0].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[2].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[4].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[can'tretrospect]_statistical1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[can'tretrospect]_statistical2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[can'tretrospect]_statistical3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[max1].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[max]_statistical.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[min3].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/classify[min]_statistical.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/compare_test_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/fitness_infor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/function.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/normalized_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Abnormal_data_monitoring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Administrator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Red_Write_data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Remove_duplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Statistical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Statistical_all.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Tools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/src/Abnormal_data_monitoring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/src/Administrator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/src/Red_Write_data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/src/Remove_duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/src/Statistical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/src/Statistical_all.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/src/Tools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abnormal_data_monitoring_kdd/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kdd_new_program/west_data/origin_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nkdd/test_data_abnormal_reduced.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abnormal monitoring/Abnormal_data_monitoring 2/src/Tongji.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../abnormal monitoring/Abnormal_data_monitoring 2/src/Tongji.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1508053851">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.126" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3656" />
+          <entry key="properties" value="16" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3656" />
+          <entry key="Properties" value="16" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nwun/hadoop/WordMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nwun/hadoop/WordReducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nwun/hadoop/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="131" column="19" lean-forward="true" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
+              <folding>
+                <element signature="method#main#0;class#Test#0" />
+                <element signature="method#testCopyToLocal#0;class#Test#0" />
+                <element signature="method#testDelete#0;class#Test#0" />
+                <element signature="method#testListFiles#0;class#Test#0" />
+                <element signature="method#testListStatus#0;class#Test#0" />
+                <element signature="method#putFileToHDFS#0;class#Test#0" />
+                <element signature="method#getFileFromHDFS#0;class#Test#0" />
+                <element signature="method#readFileSeek1#0;class#Test#0" />
+                <element signature="method#readFileSeek2#0;class#Test#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../Bigdata_abnormal_checking/src/Tools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-324" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.9.1/hadoop-mapreduce-client-core-2.9.1-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2916">
+              <caret line="149" selection-start-line="149" selection-end-line="149" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.9.1/hadoop-mapreduce-client-core-2.9.1-sources.jar!/org/apache/hadoop/mapreduce/task/JobContextImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nwun/hadoop/WordMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nwun/hadoop/WordReducer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nwun/hadoop/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="705" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hadoop-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546488003193" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Bigdata_abnormal_checking" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Test.readFileSeek2">
+    <configuration name="Test.getFileFromHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoop-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwun.hadoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwun.hadoop" />
+      <option name="MAIN_CLASS_NAME" value="com.nwun.hadoop.Test" />
+      <option name="METHOD_NAME" value="getFileFromHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.putFileToHDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoop-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwun.hadoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwun.hadoop" />
+      <option name="MAIN_CLASS_NAME" value="com.nwun.hadoop.Test" />
+      <option name="METHOD_NAME" value="putFileToHDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.readFileSeek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoop-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwun.hadoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwun.hadoop" />
+      <option name="MAIN_CLASS_NAME" value="com.nwun.hadoop.Test" />
+      <option name="METHOD_NAME" value="readFileSeek" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.readFileSeek2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoop-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwun.hadoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwun.hadoop" />
+      <option name="MAIN_CLASS_NAME" value="com.nwun.hadoop.Test" />
+      <option name="METHOD_NAME" value="readFileSeek2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.testListStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hadoop-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nwun.hadoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nwun.hadoop" />
+      <option name="MAIN_CLASS_NAME" value="com.nwun.hadoop.Test" />
+      <option name="METHOD_NAME" value="testListStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Test.testListStatus" />
+      <item itemvalue="JUnit.Test.putFileToHDFS" />
+      <item itemvalue="JUnit.Test.getFileFromHDFS" />
+      <item itemvalue="JUnit.Test.readFileSeek" />
+      <item itemvalue="JUnit.Test.readFileSeek2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.readFileSeek2" />
+        <item itemvalue="JUnit.Test.readFileSeek" />
+        <item itemvalue="JUnit.Test.getFileFromHDFS" />
+        <item itemvalue="JUnit.Test.putFileToHDFS" />
+        <item itemvalue="JUnit.Test.testListStatus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ad741bd-20eb-428a-8c2f-85ccbb9ddec0" name="Default Changelist" comment="" />
+      <created>1545656875424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545656875424</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_testCopyToLocal - 2018.12.26 at 21h 29m 38s.xml">
+      <configuration name="Test.testCopyToLocal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testCopyToLocal - 2018.12.26 at 21h 29m 51s.xml">
+      <configuration name="Test.testCopyToLocal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testDelete - 2018.12.26 at 21h 37m 59s.xml">
+      <configuration name="Test.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testListFiles - 2018.12.26 at 21h 52m 40s.xml">
+      <configuration name="Test.testListFiles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_testListStatus - 2018.12.27 at 13h 27m 17s.xml">
+      <configuration name="Test.testListStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_putFileToHDFS - 2018.12.27 at 13h 39m 23s.xml">
+      <configuration name="Test.putFileToHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_putFileToHDFS - 2018.12.27 at 13h 39m 48s.xml">
+      <configuration name="Test.putFileToHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_getFileFromHDFS - 2018.12.27 at 14h 36m 01s.xml">
+      <configuration name="Test.getFileFromHDFS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_readFileSeek - 2018.12.27 at 14h 54m 05s.xml">
+      <configuration name="Test.readFileSeek" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_readFileSeek2 - 2018.12.27 at 15h 01m 22s.xml">
+      <configuration name="Test.readFileSeek2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16684435" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31398964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3284974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.1609808" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.9.1/hadoop-mapreduce-client-core-2.9.1-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.9.1/hadoop-mapreduce-client-core-2.9.1-sources.jar!/org/apache/hadoop/mapreduce/task/JobContextImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nwun/hadoop/WordReducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nwun/hadoop/WordMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nwun/hadoop/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="131" column="19" lean-forward="true" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
+          <folding>
+            <element signature="method#main#0;class#Test#0" />
+            <element signature="method#testCopyToLocal#0;class#Test#0" />
+            <element signature="method#testDelete#0;class#Test#0" />
+            <element signature="method#testListFiles#0;class#Test#0" />
+            <element signature="method#testListStatus#0;class#Test#0" />
+            <element signature="method#putFileToHDFS#0;class#Test#0" />
+            <element signature="method#getFileFromHDFS#0;class#Test#0" />
+            <element signature="method#readFileSeek1#0;class#Test#0" />
+            <element signature="method#readFileSeek2#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Bigdata_abnormal_checking/src/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hadoop-01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
