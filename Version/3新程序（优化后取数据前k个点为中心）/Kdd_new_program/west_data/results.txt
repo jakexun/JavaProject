@@ -1,0 +1,644 @@
+ all=3000 normal=2486 abnormal=514 newdata=0
+
+classify[min0].txt  all=227 normal=1 abnormal=226 newdata=0
+classify[1].txt  all=2123 normal=2120 abnormal=3 newdata=0
+classify[max2].txt  all=650 normal=365 abnormal=285 newdata=0
+sortedclassify[min0].txt  all=227 normal=1 abnormal=226 newdata=0
+sortedclassify[1].txt  all=2123 normal=2120 abnormal=3 newdata=0
+sortedclassify[max2].txt  all=650 normal=365 abnormal=285 newdata=0
+ all=3000 normal=2486 abnormal=514 newdata=0
+
+classify[0].txt  all=2196 normal=2027 abnormal=169 newdata=0
+classify[min1].txt  all=235 normal=6 abnormal=229 newdata=0
+classify[max2].txt  all=569 normal=453 abnormal=116 newdata=0
+sortedclassify[0].txt  all=2196 normal=2027 abnormal=169 newdata=0
+sortedclassify[min1].txt  all=235 normal=6 abnormal=229 newdata=0
+sortedclassify[max2].txt  all=569 normal=453 abnormal=116 newdata=0
+ all=3000 normal=2486 abnormal=514 newdata=0
+
+classify[min0].txt  all=234 normal=6 abnormal=228 newdata=0
+classify[max1].txt  all=1446 normal=1246 abnormal=200 newdata=0
+classify[2].txt  all=1320 normal=1234 abnormal=86 newdata=0
+sortedclassify[min0].txt  all=234 normal=6 abnormal=228 newdata=0
+sortedclassify[max1].txt  all=1446 normal=1246 abnormal=200 newdata=0
+sortedclassify[2].txt  all=1320 normal=1234 abnormal=86 newdata=0
+classify[max0].txt  all=202 normal=0 abnormal=202 newdata=0
+classify[1].txt  all=195 normal=0 abnormal=195 newdata=0
+classify[min2].txt  all=456 normal=0 abnormal=456 newdata=0
+classify[0].txt  all=180 normal=0 abnormal=180 newdata=0
+classify[max1].txt  all=96 normal=0 abnormal=96 newdata=0
+classify[min2].txt  all=577 normal=0 abnormal=577 newdata=0
+classify[0].txt  all=10 normal=0 abnormal=10 newdata=0
+classify[max1].txt  all=184 normal=0 abnormal=184 newdata=0
+classify[min2].txt  all=659 normal=0 abnormal=659 newdata=0
+classify[min0].txt  all=10 normal=0 abnormal=10 newdata=0
+classify[max1].txt  all=137 normal=0 abnormal=137 newdata=0
+classify[2].txt  all=706 normal=0 abnormal=706 newdata=0
+classify[min0].txt  all=580 normal=0 abnormal=580 newdata=0
+classify[max1].txt  all=87 normal=0 abnormal=87 newdata=0
+classify[2].txt  all=186 normal=0 abnormal=186 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[min0].txt  all=1110 normal=0 abnormal=1110 newdata=0
+classify[max1].txt  all=50 normal=0 abnormal=50 newdata=0
+classify[2].txt  all=332 normal=0 abnormal=332 newdata=0
+sortedclassify[min0].txt  all=1110 normal=0 abnormal=1110 newdata=0
+sortedclassify[max1].txt  all=50 normal=0 abnormal=50 newdata=0
+sortedclassify[2].txt  all=332 normal=0 abnormal=332 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[min0].txt  all=329 normal=0 abnormal=329 newdata=0
+classify[1].txt  all=1052 normal=0 abnormal=1052 newdata=0
+classify[max2].txt  all=111 normal=0 abnormal=111 newdata=0
+sortedclassify[min0].txt  all=329 normal=0 abnormal=329 newdata=0
+sortedclassify[1].txt  all=1052 normal=0 abnormal=1052 newdata=0
+sortedclassify[max2].txt  all=111 normal=0 abnormal=111 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[min0].txt  all=14 normal=0 abnormal=14 newdata=0
+classify[max1].txt  all=330 normal=0 abnormal=330 newdata=0
+classify[2].txt  all=1148 normal=0 abnormal=1148 newdata=0
+sortedclassify[min0].txt  all=14 normal=0 abnormal=14 newdata=0
+sortedclassify[max1].txt  all=330 normal=0 abnormal=330 newdata=0
+sortedclassify[2].txt  all=1148 normal=0 abnormal=1148 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[max0].txt  all=315 normal=0 abnormal=315 newdata=0
+classify[1].txt  all=23 normal=0 abnormal=23 newdata=0
+classify[min2].txt  all=1154 normal=0 abnormal=1154 newdata=0
+sortedclassify[max0].txt  all=315 normal=0 abnormal=315 newdata=0
+sortedclassify[1].txt  all=23 normal=0 abnormal=23 newdata=0
+sortedclassify[min2].txt  all=1154 normal=0 abnormal=1154 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[min0].txt  all=977 normal=0 abnormal=977 newdata=0
+classify[1].txt  all=342 normal=0 abnormal=342 newdata=0
+classify[max2].txt  all=173 normal=0 abnormal=173 newdata=0
+sortedclassify[min0].txt  all=977 normal=0 abnormal=977 newdata=0
+sortedclassify[1].txt  all=342 normal=0 abnormal=342 newdata=0
+sortedclassify[max2].txt  all=173 normal=0 abnormal=173 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[0].txt  all=323 normal=0 abnormal=323 newdata=0
+classify[max1].txt  all=156 normal=0 abnormal=156 newdata=0
+classify[min2].txt  all=1013 normal=0 abnormal=1013 newdata=0
+sortedclassify[0].txt  all=323 normal=0 abnormal=323 newdata=0
+sortedclassify[max1].txt  all=156 normal=0 abnormal=156 newdata=0
+sortedclassify[min2].txt  all=1013 normal=0 abnormal=1013 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[0].txt  all=343 normal=0 abnormal=343 newdata=0
+classify[min1].txt  all=948 normal=0 abnormal=948 newdata=0
+classify[max2].txt  all=201 normal=0 abnormal=201 newdata=0
+sortedclassify[0].txt  all=343 normal=0 abnormal=343 newdata=0
+sortedclassify[min1].txt  all=948 normal=0 abnormal=948 newdata=0
+sortedclassify[max2].txt  all=201 normal=0 abnormal=201 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[min0].txt  all=747 normal=0 abnormal=747 newdata=0
+classify[1].txt  all=350 normal=0 abnormal=350 newdata=0
+classify[max2].txt  all=395 normal=0 abnormal=395 newdata=0
+sortedclassify[min0].txt  all=747 normal=0 abnormal=747 newdata=0
+sortedclassify[1].txt  all=350 normal=0 abnormal=350 newdata=0
+sortedclassify[max2].txt  all=395 normal=0 abnormal=395 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[max0].txt  all=165 normal=0 abnormal=165 newdata=0
+classify[1].txt  all=199 normal=0 abnormal=199 newdata=0
+classify[min2].txt  all=1128 normal=0 abnormal=1128 newdata=0
+sortedclassify[max0].txt  all=165 normal=0 abnormal=165 newdata=0
+sortedclassify[1].txt  all=199 normal=0 abnormal=199 newdata=0
+sortedclassify[min2].txt  all=1128 normal=0 abnormal=1128 newdata=0
+ all=1492 normal=0 abnormal=1492 newdata=0
+
+classify[max0].txt  all=163 normal=0 abnormal=163 newdata=0
+classify[1].txt  all=312 normal=0 abnormal=312 newdata=0
+classify[min2].txt  all=1017 normal=0 abnormal=1017 newdata=0
+sortedclassify[max0].txt  all=163 normal=0 abnormal=163 newdata=0
+sortedclassify[1].txt  all=312 normal=0 abnormal=312 newdata=0
+sortedclassify[min2].txt  all=1017 normal=0 abnormal=1017 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=9 normal=0 abnormal=9 newdata=0
+classify[min1].txt  all=664 normal=0 abnormal=664 newdata=0
+classify[max2].txt  all=174 normal=0 abnormal=174 newdata=0
+sortedclassify[0].txt  all=9 normal=0 abnormal=9 newdata=0
+sortedclassify[min1].txt  all=664 normal=0 abnormal=664 newdata=0
+sortedclassify[max2].txt  all=174 normal=0 abnormal=174 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=68 normal=0 abnormal=68 newdata=0
+classify[max1].txt  all=159 normal=0 abnormal=159 newdata=0
+classify[min2].txt  all=620 normal=0 abnormal=620 newdata=0
+sortedclassify[0].txt  all=68 normal=0 abnormal=68 newdata=0
+sortedclassify[max1].txt  all=159 normal=0 abnormal=159 newdata=0
+sortedclassify[min2].txt  all=620 normal=0 abnormal=620 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=639 normal=0 abnormal=639 newdata=0
+classify[max1].txt  all=21 normal=0 abnormal=21 newdata=0
+classify[2].txt  all=187 normal=0 abnormal=187 newdata=0
+sortedclassify[min0].txt  all=639 normal=0 abnormal=639 newdata=0
+sortedclassify[max1].txt  all=21 normal=0 abnormal=21 newdata=0
+sortedclassify[2].txt  all=187 normal=0 abnormal=187 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=173 normal=0 abnormal=173 newdata=0
+classify[max1].txt  all=58 normal=0 abnormal=58 newdata=0
+classify[min2].txt  all=616 normal=0 abnormal=616 newdata=0
+sortedclassify[0].txt  all=173 normal=0 abnormal=173 newdata=0
+sortedclassify[max1].txt  all=58 normal=0 abnormal=58 newdata=0
+sortedclassify[min2].txt  all=616 normal=0 abnormal=616 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=85 normal=0 abnormal=85 newdata=0
+classify[1].txt  all=163 normal=0 abnormal=163 newdata=0
+classify[min2].txt  all=599 normal=0 abnormal=599 newdata=0
+sortedclassify[max0].txt  all=85 normal=0 abnormal=85 newdata=0
+sortedclassify[1].txt  all=163 normal=0 abnormal=163 newdata=0
+sortedclassify[min2].txt  all=599 normal=0 abnormal=599 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=168 normal=0 abnormal=168 newdata=0
+classify[1].txt  all=489 normal=0 abnormal=489 newdata=0
+classify[min2].txt  all=190 normal=0 abnormal=190 newdata=0
+sortedclassify[max0].txt  all=168 normal=0 abnormal=168 newdata=0
+sortedclassify[1].txt  all=489 normal=0 abnormal=489 newdata=0
+sortedclassify[min2].txt  all=190 normal=0 abnormal=190 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=196 normal=0 abnormal=196 newdata=0
+classify[max1].txt  all=258 normal=0 abnormal=258 newdata=0
+classify[min2].txt  all=393 normal=0 abnormal=393 newdata=0
+sortedclassify[0].txt  all=196 normal=0 abnormal=196 newdata=0
+sortedclassify[max1].txt  all=258 normal=0 abnormal=258 newdata=0
+sortedclassify[min2].txt  all=393 normal=0 abnormal=393 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=83 normal=0 abnormal=83 newdata=0
+classify[min1].txt  all=594 normal=0 abnormal=594 newdata=0
+classify[2].txt  all=170 normal=0 abnormal=170 newdata=0
+sortedclassify[max0].txt  all=83 normal=0 abnormal=83 newdata=0
+sortedclassify[min1].txt  all=594 normal=0 abnormal=594 newdata=0
+sortedclassify[2].txt  all=170 normal=0 abnormal=170 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=621 normal=0 abnormal=621 newdata=0
+classify[1].txt  all=119 normal=0 abnormal=119 newdata=0
+classify[max2].txt  all=107 normal=0 abnormal=107 newdata=0
+sortedclassify[min0].txt  all=621 normal=0 abnormal=621 newdata=0
+sortedclassify[1].txt  all=119 normal=0 abnormal=119 newdata=0
+sortedclassify[max2].txt  all=107 normal=0 abnormal=107 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=652 normal=0 abnormal=652 newdata=0
+classify[max1].txt  all=186 normal=0 abnormal=186 newdata=0
+classify[2].txt  all=9 normal=0 abnormal=9 newdata=0
+sortedclassify[min0].txt  all=652 normal=0 abnormal=652 newdata=0
+sortedclassify[max1].txt  all=186 normal=0 abnormal=186 newdata=0
+sortedclassify[2].txt  all=9 normal=0 abnormal=9 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=184 normal=0 abnormal=184 newdata=0
+classify[1].txt  all=192 normal=0 abnormal=192 newdata=0
+classify[min2].txt  all=471 normal=0 abnormal=471 newdata=0
+sortedclassify[max0].txt  all=184 normal=0 abnormal=184 newdata=0
+sortedclassify[1].txt  all=192 normal=0 abnormal=192 newdata=0
+sortedclassify[min2].txt  all=471 normal=0 abnormal=471 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=6 normal=0 abnormal=6 newdata=0
+classify[max1].txt  all=181 normal=0 abnormal=181 newdata=0
+classify[min2].txt  all=660 normal=0 abnormal=660 newdata=0
+sortedclassify[0].txt  all=6 normal=0 abnormal=6 newdata=0
+sortedclassify[max1].txt  all=181 normal=0 abnormal=181 newdata=0
+sortedclassify[min2].txt  all=660 normal=0 abnormal=660 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=184 normal=0 abnormal=184 newdata=0
+classify[1].txt  all=436 normal=0 abnormal=436 newdata=0
+classify[max2].txt  all=227 normal=0 abnormal=227 newdata=0
+sortedclassify[min0].txt  all=184 normal=0 abnormal=184 newdata=0
+sortedclassify[1].txt  all=436 normal=0 abnormal=436 newdata=0
+sortedclassify[max2].txt  all=227 normal=0 abnormal=227 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=94 normal=0 abnormal=94 newdata=0
+classify[min1].txt  all=593 normal=0 abnormal=593 newdata=0
+classify[2].txt  all=160 normal=0 abnormal=160 newdata=0
+sortedclassify[max0].txt  all=94 normal=0 abnormal=94 newdata=0
+sortedclassify[min1].txt  all=593 normal=0 abnormal=593 newdata=0
+sortedclassify[2].txt  all=160 normal=0 abnormal=160 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=595 normal=0 abnormal=595 newdata=0
+classify[1].txt  all=182 normal=0 abnormal=182 newdata=0
+classify[max2].txt  all=70 normal=0 abnormal=70 newdata=0
+sortedclassify[min0].txt  all=595 normal=0 abnormal=595 newdata=0
+sortedclassify[1].txt  all=182 normal=0 abnormal=182 newdata=0
+sortedclassify[max2].txt  all=70 normal=0 abnormal=70 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=105 normal=0 abnormal=105 newdata=0
+classify[1].txt  all=126 normal=0 abnormal=126 newdata=0
+classify[min2].txt  all=616 normal=0 abnormal=616 newdata=0
+sortedclassify[max0].txt  all=105 normal=0 abnormal=105 newdata=0
+sortedclassify[1].txt  all=126 normal=0 abnormal=126 newdata=0
+sortedclassify[min2].txt  all=616 normal=0 abnormal=616 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=173 normal=0 abnormal=173 newdata=0
+classify[1].txt  all=12 normal=0 abnormal=12 newdata=0
+classify[min2].txt  all=662 normal=0 abnormal=662 newdata=0
+sortedclassify[max0].txt  all=173 normal=0 abnormal=173 newdata=0
+sortedclassify[1].txt  all=12 normal=0 abnormal=12 newdata=0
+sortedclassify[min2].txt  all=662 normal=0 abnormal=662 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=659 normal=0 abnormal=659 newdata=0
+classify[min1].txt  all=8 normal=0 abnormal=8 newdata=0
+classify[max2].txt  all=180 normal=0 abnormal=180 newdata=0
+sortedclassify[0].txt  all=659 normal=0 abnormal=659 newdata=0
+sortedclassify[min1].txt  all=8 normal=0 abnormal=8 newdata=0
+sortedclassify[max2].txt  all=180 normal=0 abnormal=180 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=6 normal=0 abnormal=6 newdata=0
+classify[min1].txt  all=659 normal=0 abnormal=659 newdata=0
+classify[2].txt  all=182 normal=0 abnormal=182 newdata=0
+sortedclassify[max0].txt  all=6 normal=0 abnormal=6 newdata=0
+sortedclassify[min1].txt  all=659 normal=0 abnormal=659 newdata=0
+sortedclassify[2].txt  all=182 normal=0 abnormal=182 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=597 normal=0 abnormal=597 newdata=0
+classify[1].txt  all=237 normal=0 abnormal=237 newdata=0
+classify[min2].txt  all=13 normal=0 abnormal=13 newdata=0
+sortedclassify[max0].txt  all=597 normal=0 abnormal=597 newdata=0
+sortedclassify[1].txt  all=237 normal=0 abnormal=237 newdata=0
+sortedclassify[min2].txt  all=13 normal=0 abnormal=13 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=9 normal=0 abnormal=9 newdata=0
+classify[min1].txt  all=652 normal=0 abnormal=652 newdata=0
+classify[max2].txt  all=186 normal=0 abnormal=186 newdata=0
+sortedclassify[0].txt  all=9 normal=0 abnormal=9 newdata=0
+sortedclassify[min1].txt  all=652 normal=0 abnormal=652 newdata=0
+sortedclassify[max2].txt  all=186 normal=0 abnormal=186 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=159 normal=0 abnormal=159 newdata=0
+classify[1].txt  all=84 normal=0 abnormal=84 newdata=0
+classify[min2].txt  all=604 normal=0 abnormal=604 newdata=0
+sortedclassify[max0].txt  all=159 normal=0 abnormal=159 newdata=0
+sortedclassify[1].txt  all=84 normal=0 abnormal=84 newdata=0
+sortedclassify[min2].txt  all=604 normal=0 abnormal=604 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=108 normal=0 abnormal=108 newdata=0
+classify[1].txt  all=119 normal=0 abnormal=119 newdata=0
+classify[min2].txt  all=620 normal=0 abnormal=620 newdata=0
+sortedclassify[max0].txt  all=108 normal=0 abnormal=108 newdata=0
+sortedclassify[1].txt  all=119 normal=0 abnormal=119 newdata=0
+sortedclassify[min2].txt  all=620 normal=0 abnormal=620 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=208 normal=0 abnormal=208 newdata=0
+classify[max1].txt  all=627 normal=0 abnormal=627 newdata=0
+classify[min2].txt  all=12 normal=0 abnormal=12 newdata=0
+sortedclassify[0].txt  all=208 normal=0 abnormal=208 newdata=0
+sortedclassify[max1].txt  all=627 normal=0 abnormal=627 newdata=0
+sortedclassify[min2].txt  all=12 normal=0 abnormal=12 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=651 normal=0 abnormal=651 newdata=0
+classify[1].txt  all=184 normal=0 abnormal=184 newdata=0
+classify[max2].txt  all=12 normal=0 abnormal=12 newdata=0
+sortedclassify[min0].txt  all=651 normal=0 abnormal=651 newdata=0
+sortedclassify[1].txt  all=184 normal=0 abnormal=184 newdata=0
+sortedclassify[max2].txt  all=12 normal=0 abnormal=12 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=9 normal=0 abnormal=9 newdata=0
+classify[min1].txt  all=662 normal=0 abnormal=662 newdata=0
+classify[max2].txt  all=176 normal=0 abnormal=176 newdata=0
+sortedclassify[0].txt  all=9 normal=0 abnormal=9 newdata=0
+sortedclassify[min1].txt  all=662 normal=0 abnormal=662 newdata=0
+sortedclassify[max2].txt  all=176 normal=0 abnormal=176 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=30 normal=0 abnormal=30 newdata=0
+classify[min1].txt  all=643 normal=0 abnormal=643 newdata=0
+classify[2].txt  all=174 normal=0 abnormal=174 newdata=0
+sortedclassify[max0].txt  all=30 normal=0 abnormal=30 newdata=0
+sortedclassify[min1].txt  all=643 normal=0 abnormal=643 newdata=0
+sortedclassify[2].txt  all=174 normal=0 abnormal=174 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=180 normal=0 abnormal=180 newdata=0
+classify[min1].txt  all=657 normal=0 abnormal=657 newdata=0
+classify[2].txt  all=10 normal=0 abnormal=10 newdata=0
+sortedclassify[max0].txt  all=180 normal=0 abnormal=180 newdata=0
+sortedclassify[min1].txt  all=657 normal=0 abnormal=657 newdata=0
+sortedclassify[2].txt  all=10 normal=0 abnormal=10 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=70 normal=0 abnormal=70 newdata=0
+classify[1].txt  all=181 normal=0 abnormal=181 newdata=0
+classify[min2].txt  all=596 normal=0 abnormal=596 newdata=0
+sortedclassify[max0].txt  all=70 normal=0 abnormal=70 newdata=0
+sortedclassify[1].txt  all=181 normal=0 abnormal=181 newdata=0
+sortedclassify[min2].txt  all=596 normal=0 abnormal=596 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=595 normal=0 abnormal=595 newdata=0
+classify[max1].txt  all=83 normal=0 abnormal=83 newdata=0
+classify[2].txt  all=169 normal=0 abnormal=169 newdata=0
+sortedclassify[min0].txt  all=595 normal=0 abnormal=595 newdata=0
+sortedclassify[max1].txt  all=83 normal=0 abnormal=83 newdata=0
+sortedclassify[2].txt  all=169 normal=0 abnormal=169 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=11 normal=0 abnormal=11 newdata=0
+classify[max1].txt  all=612 normal=0 abnormal=612 newdata=0
+classify[2].txt  all=224 normal=0 abnormal=224 newdata=0
+sortedclassify[min0].txt  all=11 normal=0 abnormal=11 newdata=0
+sortedclassify[max1].txt  all=612 normal=0 abnormal=612 newdata=0
+sortedclassify[2].txt  all=224 normal=0 abnormal=224 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=192 normal=0 abnormal=192 newdata=0
+classify[1].txt  all=485 normal=0 abnormal=485 newdata=0
+classify[max2].txt  all=170 normal=0 abnormal=170 newdata=0
+sortedclassify[min0].txt  all=192 normal=0 abnormal=192 newdata=0
+sortedclassify[1].txt  all=485 normal=0 abnormal=485 newdata=0
+sortedclassify[max2].txt  all=170 normal=0 abnormal=170 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=629 normal=0 abnormal=629 newdata=0
+classify[1].txt  all=117 normal=0 abnormal=117 newdata=0
+classify[max2].txt  all=101 normal=0 abnormal=101 newdata=0
+sortedclassify[min0].txt  all=629 normal=0 abnormal=629 newdata=0
+sortedclassify[1].txt  all=117 normal=0 abnormal=117 newdata=0
+sortedclassify[max2].txt  all=101 normal=0 abnormal=101 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=583 normal=0 abnormal=583 newdata=0
+classify[max1].txt  all=94 normal=0 abnormal=94 newdata=0
+classify[2].txt  all=170 normal=0 abnormal=170 newdata=0
+sortedclassify[min0].txt  all=583 normal=0 abnormal=583 newdata=0
+sortedclassify[max1].txt  all=94 normal=0 abnormal=94 newdata=0
+sortedclassify[2].txt  all=170 normal=0 abnormal=170 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=185 normal=0 abnormal=185 newdata=0
+classify[1].txt  all=500 normal=0 abnormal=500 newdata=0
+classify[max2].txt  all=162 normal=0 abnormal=162 newdata=0
+sortedclassify[min0].txt  all=185 normal=0 abnormal=185 newdata=0
+sortedclassify[1].txt  all=500 normal=0 abnormal=500 newdata=0
+sortedclassify[max2].txt  all=162 normal=0 abnormal=162 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=474 normal=0 abnormal=474 newdata=0
+classify[1].txt  all=185 normal=0 abnormal=185 newdata=0
+classify[max2].txt  all=188 normal=0 abnormal=188 newdata=0
+sortedclassify[min0].txt  all=474 normal=0 abnormal=474 newdata=0
+sortedclassify[1].txt  all=185 normal=0 abnormal=185 newdata=0
+sortedclassify[max2].txt  all=188 normal=0 abnormal=188 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=650 normal=0 abnormal=650 newdata=0
+classify[max1].txt  all=128 normal=0 abnormal=128 newdata=0
+classify[2].txt  all=69 normal=0 abnormal=69 newdata=0
+sortedclassify[min0].txt  all=650 normal=0 abnormal=650 newdata=0
+sortedclassify[max1].txt  all=128 normal=0 abnormal=128 newdata=0
+sortedclassify[2].txt  all=69 normal=0 abnormal=69 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=99 normal=0 abnormal=99 newdata=0
+classify[min1].txt  all=650 normal=0 abnormal=650 newdata=0
+classify[max2].txt  all=98 normal=0 abnormal=98 newdata=0
+sortedclassify[0].txt  all=99 normal=0 abnormal=99 newdata=0
+sortedclassify[min1].txt  all=650 normal=0 abnormal=650 newdata=0
+sortedclassify[max2].txt  all=98 normal=0 abnormal=98 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=184 normal=0 abnormal=184 newdata=0
+classify[max1].txt  all=11 normal=0 abnormal=11 newdata=0
+classify[min2].txt  all=652 normal=0 abnormal=652 newdata=0
+sortedclassify[0].txt  all=184 normal=0 abnormal=184 newdata=0
+sortedclassify[max1].txt  all=11 normal=0 abnormal=11 newdata=0
+sortedclassify[min2].txt  all=652 normal=0 abnormal=652 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=657 normal=0 abnormal=657 newdata=0
+classify[1].txt  all=9 normal=0 abnormal=9 newdata=0
+classify[max2].txt  all=181 normal=0 abnormal=181 newdata=0
+sortedclassify[min0].txt  all=657 normal=0 abnormal=657 newdata=0
+sortedclassify[1].txt  all=9 normal=0 abnormal=9 newdata=0
+sortedclassify[max2].txt  all=181 normal=0 abnormal=181 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=8 normal=0 abnormal=8 newdata=0
+classify[1].txt  all=646 normal=0 abnormal=646 newdata=0
+classify[max2].txt  all=193 normal=0 abnormal=193 newdata=0
+sortedclassify[min0].txt  all=8 normal=0 abnormal=8 newdata=0
+sortedclassify[1].txt  all=646 normal=0 abnormal=646 newdata=0
+sortedclassify[max2].txt  all=193 normal=0 abnormal=193 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=6 normal=0 abnormal=6 newdata=0
+classify[min1].txt  all=662 normal=0 abnormal=662 newdata=0
+classify[max2].txt  all=179 normal=0 abnormal=179 newdata=0
+sortedclassify[0].txt  all=6 normal=0 abnormal=6 newdata=0
+sortedclassify[min1].txt  all=662 normal=0 abnormal=662 newdata=0
+sortedclassify[max2].txt  all=179 normal=0 abnormal=179 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=128 normal=0 abnormal=128 newdata=0
+classify[1].txt  all=67 normal=0 abnormal=67 newdata=0
+classify[min2].txt  all=652 normal=0 abnormal=652 newdata=0
+sortedclassify[max0].txt  all=128 normal=0 abnormal=128 newdata=0
+sortedclassify[1].txt  all=67 normal=0 abnormal=67 newdata=0
+sortedclassify[min2].txt  all=652 normal=0 abnormal=652 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[0].txt  all=188 normal=0 abnormal=188 newdata=0
+classify[max1].txt  all=26 normal=0 abnormal=26 newdata=0
+classify[min2].txt  all=633 normal=0 abnormal=633 newdata=0
+sortedclassify[0].txt  all=188 normal=0 abnormal=188 newdata=0
+sortedclassify[max1].txt  all=26 normal=0 abnormal=26 newdata=0
+sortedclassify[min2].txt  all=633 normal=0 abnormal=633 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=638 normal=0 abnormal=638 newdata=0
+classify[max1].txt  all=102 normal=0 abnormal=102 newdata=0
+classify[2].txt  all=107 normal=0 abnormal=107 newdata=0
+sortedclassify[min0].txt  all=638 normal=0 abnormal=638 newdata=0
+sortedclassify[max1].txt  all=102 normal=0 abnormal=102 newdata=0
+sortedclassify[2].txt  all=107 normal=0 abnormal=107 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=623 normal=0 abnormal=623 newdata=0
+classify[1].txt  all=215 normal=0 abnormal=215 newdata=0
+classify[min2].txt  all=9 normal=0 abnormal=9 newdata=0
+sortedclassify[max0].txt  all=623 normal=0 abnormal=623 newdata=0
+sortedclassify[1].txt  all=215 normal=0 abnormal=215 newdata=0
+sortedclassify[min2].txt  all=9 normal=0 abnormal=9 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=203 normal=0 abnormal=203 newdata=0
+classify[min1].txt  all=457 normal=0 abnormal=457 newdata=0
+classify[2].txt  all=187 normal=0 abnormal=187 newdata=0
+sortedclassify[max0].txt  all=203 normal=0 abnormal=203 newdata=0
+sortedclassify[min1].txt  all=457 normal=0 abnormal=457 newdata=0
+sortedclassify[2].txt  all=187 normal=0 abnormal=187 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=395 normal=0 abnormal=395 newdata=0
+classify[1].txt  all=192 normal=0 abnormal=192 newdata=0
+classify[max2].txt  all=260 normal=0 abnormal=260 newdata=0
+sortedclassify[min0].txt  all=395 normal=0 abnormal=395 newdata=0
+sortedclassify[1].txt  all=192 normal=0 abnormal=192 newdata=0
+sortedclassify[max2].txt  all=260 normal=0 abnormal=260 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=83 normal=0 abnormal=83 newdata=0
+classify[1].txt  all=127 normal=0 abnormal=127 newdata=0
+classify[min2].txt  all=637 normal=0 abnormal=637 newdata=0
+sortedclassify[max0].txt  all=83 normal=0 abnormal=83 newdata=0
+sortedclassify[1].txt  all=127 normal=0 abnormal=127 newdata=0
+sortedclassify[min2].txt  all=637 normal=0 abnormal=637 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=180 normal=0 abnormal=180 newdata=0
+classify[min1].txt  all=658 normal=0 abnormal=658 newdata=0
+classify[2].txt  all=9 normal=0 abnormal=9 newdata=0
+sortedclassify[max0].txt  all=180 normal=0 abnormal=180 newdata=0
+sortedclassify[min1].txt  all=658 normal=0 abnormal=658 newdata=0
+sortedclassify[2].txt  all=9 normal=0 abnormal=9 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=45 normal=0 abnormal=45 newdata=0
+classify[min1].txt  all=612 normal=0 abnormal=612 newdata=0
+classify[2].txt  all=190 normal=0 abnormal=190 newdata=0
+sortedclassify[max0].txt  all=45 normal=0 abnormal=45 newdata=0
+sortedclassify[min1].txt  all=612 normal=0 abnormal=612 newdata=0
+sortedclassify[2].txt  all=190 normal=0 abnormal=190 newdata=0
+ all=901 normal=0 abnormal=901 newdata=0
+
+classify[min0].txt  all=331 normal=0 abnormal=331 newdata=0
+classify[max1].txt  all=31 normal=0 abnormal=31 newdata=0
+classify[2].txt  all=17 normal=0 abnormal=17 newdata=0
+sortedclassify[max0].txt  all=45 normal=0 abnormal=45 newdata=0
+sortedclassify[min0].txt  all=331 normal=0 abnormal=331 newdata=0
+sortedclassify[max1].txt  all=31 normal=0 abnormal=31 newdata=0
+sortedclassify[min1].txt  all=612 normal=0 abnormal=612 newdata=0
+sortedclassify[2].txt  all=207 normal=0 abnormal=207 newdata=0
+ all=898 normal=0 abnormal=898 newdata=0
+
+classify[min0].txt  all=165 normal=0 abnormal=165 newdata=0
+classify[1].txt  all=88 normal=0 abnormal=88 newdata=0
+classify[max2].txt  all=8 normal=0 abnormal=8 newdata=0
+sortedclassify[min0].txt  all=165 normal=0 abnormal=165 newdata=0
+sortedclassify[1].txt  all=88 normal=0 abnormal=88 newdata=0
+sortedclassify[max2].txt  all=8 normal=0 abnormal=8 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[max0].txt  all=22 normal=0 abnormal=22 newdata=0
+classify[1].txt  all=172 normal=0 abnormal=172 newdata=0
+classify[min2].txt  all=653 normal=0 abnormal=653 newdata=0
+sortedclassify[max0].txt  all=22 normal=0 abnormal=22 newdata=0
+sortedclassify[1].txt  all=172 normal=0 abnormal=172 newdata=0
+sortedclassify[min2].txt  all=653 normal=0 abnormal=653 newdata=0
+ all=847 normal=0 abnormal=847 newdata=0
+
+classify[min0].txt  all=635 normal=0 abnormal=635 newdata=0
+classify[1].txt  all=101 normal=0 abnormal=101 newdata=0
+classify[max2].txt  all=111 normal=0 abnormal=111 newdata=0
+sortedclassify[min0].txt  all=635 normal=0 abnormal=635 newdata=0
+sortedclassify[1].txt  all=101 normal=0 abnormal=101 newdata=0
+sortedclassify[max2].txt  all=111 normal=0 abnormal=111 newdata=0
+ all=898 normal=0 abnormal=898 newdata=0
+
+classify[min0].txt  all=162 normal=0 abnormal=162 newdata=0
+classify[max1].txt  all=45 normal=0 abnormal=45 newdata=0
+classify[2].txt  all=29 normal=0 abnormal=29 newdata=0
+sortedclassify[min0].txt  all=162 normal=0 abnormal=162 newdata=0
+sortedclassify[max1].txt  all=45 normal=0 abnormal=45 newdata=0
+sortedclassify[2].txt  all=29 normal=0 abnormal=29 newdata=0
+ all=574 normal=0 abnormal=574 newdata=0
+
+classify[0].txt  all=67 normal=0 abnormal=67 newdata=0
+classify[max1].txt  all=27 normal=0 abnormal=27 newdata=0
+classify[min2].txt  all=142 normal=0 abnormal=142 newdata=0
+sortedclassify[0].txt  all=67 normal=0 abnormal=67 newdata=0
+sortedclassify[max1].txt  all=27 normal=0 abnormal=27 newdata=0
+sortedclassify[min2].txt  all=142 normal=0 abnormal=142 newdata=0
+ all=577 normal=0 abnormal=577 newdata=0
+
+classify[max0].txt  all=8 normal=0 abnormal=8 newdata=0
+classify[1].txt  all=129 normal=0 abnormal=129 newdata=0
+classify[min2].txt  all=440 normal=0 abnormal=440 newdata=0
+sortedclassify[max0].txt  all=8 normal=0 abnormal=8 newdata=0
+sortedclassify[max1].txt  all=27 normal=0 abnormal=27 newdata=0
+sortedclassify[1].txt  all=129 normal=0 abnormal=129 newdata=0
+sortedclassify[min2].txt  all=440 normal=0 abnormal=440 newdata=0
+ all=577 normal=0 abnormal=577 newdata=0
+
+classify[min0].txt  all=449 normal=0 abnormal=449 newdata=0
+classify[1].txt  all=114 normal=0 abnormal=114 newdata=0
+classify[max2].txt  all=14 normal=0 abnormal=14 newdata=0
+sortedclassify[min0].txt  all=449 normal=0 abnormal=449 newdata=0
+sortedclassify[max1].txt  all=27 normal=0 abnormal=27 newdata=0
+sortedclassify[1].txt  all=114 normal=0 abnormal=114 newdata=0
+sortedclassify[max2].txt  all=14 normal=0 abnormal=14 newdata=0
+sortedclassify[min2].txt  all=440 normal=0 abnormal=440 newdata=0
+ all=574 normal=0 abnormal=574 newdata=0
+
+classify[min0].txt  all=437 normal=0 abnormal=437 newdata=0
+classify[max1].txt  all=6 normal=0 abnormal=6 newdata=0
+classify[2].txt  all=131 normal=0 abnormal=131 newdata=0
+sortedclassify[min0].txt  all=437 normal=0 abnormal=437 newdata=0
+sortedclassify[max1].txt  all=6 normal=0 abnormal=6 newdata=0
+sortedclassify[2].txt  all=131 normal=0 abnormal=131 newdata=0
+ all=463 normal=0 abnormal=463 newdata=0
+
+classify[max0].txt  all=90 normal=0 abnormal=90 newdata=0
+classify[min1].txt  all=321 normal=0 abnormal=321 newdata=0
+classify[2].txt  all=52 normal=0 abnormal=52 newdata=0
+sortedclassify[max0].txt  all=90 normal=0 abnormal=90 newdata=0
+sortedclassify[min1].txt  all=321 normal=0 abnormal=321 newdata=0
+sortedclassify[2].txt  all=52 normal=0 abnormal=52 newdata=0
+ all=214 normal=0 abnormal=214 newdata=0
+
+classify[max0].txt  all=46 normal=0 abnormal=46 newdata=0
+classify[min1].txt  all=120 normal=0 abnormal=120 newdata=0
+classify[2].txt  all=48 normal=0 abnormal=48 newdata=0
+sortedclassify[max0].txt  all=46 normal=0 abnormal=46 newdata=0
+sortedclassify[min1].txt  all=120 normal=0 abnormal=120 newdata=0
+sortedclassify[2].txt  all=48 normal=0 abnormal=48 newdata=0
+ all=724 normal=0 abnormal=724 newdata=0
+
+classify[0].txt  all=54 normal=0 abnormal=54 newdata=0
+classify[min1].txt  all=453 normal=0 abnormal=453 newdata=0
+classify[max2].txt  all=217 normal=0 abnormal=217 newdata=0
+sortedclassify[0].txt  all=54 normal=0 abnormal=54 newdata=0
+sortedclassify[min1].txt  all=453 normal=0 abnormal=453 newdata=0
+sortedclassify[max2].txt  all=217 normal=0 abnormal=217 newdata=0
+ all=214 normal=0 abnormal=214 newdata=0
+
+classify[max0].txt  all=31 normal=0 abnormal=31 newdata=0
+classify[1].txt  all=17 normal=0 abnormal=17 newdata=0
+classify[min2].txt  all=166 normal=0 abnormal=166 newdata=0
+sortedclassify[max0].txt  all=31 normal=0 abnormal=31 newdata=0
+sortedclassify[1].txt  all=17 normal=0 abnormal=17 newdata=0
+sortedclassify[min2].txt  all=166 normal=0 abnormal=166 newdata=0
+ all=754 normal=0 abnormal=754 newdata=0
+
+classify[max0].txt  all=230 normal=0 abnormal=230 newdata=0
+classify[1].txt  all=51 normal=0 abnormal=51 newdata=0
+classify[min2].txt  all=473 normal=0 abnormal=473 newdata=0
+sortedclassify[max0].txt  all=230 normal=0 abnormal=230 newdata=0
+sortedclassify[1].txt  all=51 normal=0 abnormal=51 newdata=0
+sortedclassify[min2].txt  all=473 normal=0 abnormal=473 newdata=0

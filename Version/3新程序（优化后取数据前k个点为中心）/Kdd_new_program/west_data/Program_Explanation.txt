@@ -1,0 +1,3 @@
+对数据进行编码和归一化：
+处理一组新数据时先运行GetStrPropertiesValue
+然后运行CodeData

@@ -1,0 +1,5 @@
+测试数据信息：all=17875,normal=13401,abnormal=4474
+normal_data信息：all=1392,normal=1301,abnormal=91
+abnormal_data信息：all=148,normal=60,abnormal=88
+fail_identify_data信息：all=16138,normal=11896,abnormal=4242
+new_feature信息：all=197,normal=144,abnormal=53

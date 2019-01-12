@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/nw/program/Read_Write_data.java" line="48" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54d2848d-2a97-4100-9e2d-a334c8864220" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/Configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/src/com/kmeans/Administor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/src/com/kmeans/CreateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/src/com/kmeans/K_means.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/src/com/kmeans/Read_Write_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/src/com/kmeans/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/src/nwun/ml/dmt/DecisionMakingTreeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/src/nwun/ml/dmt/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/watermelon_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/watermelon_data_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Decision-Making_Tree/watermelon_data_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hadoop-01/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/Configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/K-means.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/src/com/kmeans/Administor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/src/com/kmeans/CreateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/src/com/kmeans/K_means.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/src/com/kmeans/Read_Write_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../K-means/src/com/kmeans/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/Configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/Kdd_new_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/function.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/preprocessing.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/shuttle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/data/process/CodeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/data/process/GetStrPropertiesValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/data/process/Remove_duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/data/process/Statistical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/nw/program/Administrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/nw/program/Genetic_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/nw/program/K_means.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/nw/program/Read_Write_data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/src/nw/program/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/west_data/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/west_data/Program_Explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kdd_new_program/west_data/glass.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_method/bigdata_presiding_judge_kdd/classify[max3].txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_method/bigdata_presiding_judge_salary/normalized_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_method/bigdata_presiding_judge_salary/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_method/bigdata_presiding_judge_salary/salary_result.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_method/bigdata_presiding_judge_salary/to_identify_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_method/bigdata_presiding_judge_salary/train_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../origin_method/salary/src/data/preprocessing/PrepareData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring (kdd)/src/Data_normalizing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring (kdd)/src/Statistical_f_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring 2/Finished_cleaning.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring 2/src/Remove_duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring 2/src/Tongji.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring 2/src/new_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Abnormal_data_monitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Abnormal_data_monitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/out/production/Abnormal_data_monitoring/Tools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/Abnormal_data_monitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/Abnormal_data_monitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/ReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/ReadWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/Read_Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/Read_Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring/src/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/classify[3].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/classify[max]_statistical.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/classify[min0].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/classify[min]_statistical.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Abnormal_data_monitoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Abnormal_data_monitoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Administrator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Administrator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/ReadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/ReadWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Tools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/run_result_max_before.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/run_result_min_before.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/Abnormal_data_monitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/Abnormal_data_monitoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/Statistical_all.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Abnormal_data_monitoring_kdd/src/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/Abnormal_data_monitoring_kdd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/Finished_cleaning.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/central.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[0].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[2].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[4].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[can'tretrospect]_statistical1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[can'tretrospect]_statistical2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[can'tretrospect]_statistical3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[max1].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[max]_statistical.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[min3].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/classify[min]_statistical.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/compare_test_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/fitness_infor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/function.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/normalized_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Abnormal_data_monitoring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Administrator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Red_Write_data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Remove_duplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Statistical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Statistical_all.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/Tools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/out/production/Abnormal_data_monitoring_kdd/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Abnormal_data_monitoring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Administrator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Red_Write_data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Remove_duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Statistical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Statistical_all.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/Tools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abnormal_data_monitoring_kdd/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kdd_new_program/west_data/origin_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nkdd/test_data_abnormal_reduced.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../abnormal monitoring/Abnormal_data_monitoring 2/src/Tongji.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../abnormal monitoring/Abnormal_data_monitoring 2/src/Tongji.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1013832478">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Configuration" value="1" />
+          <entry key="csv" value="3" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="74" />
+          <entry key="properties" value="8" />
+          <entry key="txt" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="74" />
+          <entry key="PLAIN_TEXT" value="83" />
+          <entry key="Properties" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="4299" />
+          <entry key="properties" value="196" />
+          <entry key="txt" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4299" />
+          <entry key="PLAIN_TEXT" value="79" />
+          <entry key="Properties" value="196" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="431100824">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nw/program/Genetic_Algorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/od/program/Remove_duplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1512">
+              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nw/program/Read_Write_data.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/od/program/Tools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nw/program/Tools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="56" column="47" lean-forward="true" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/od/program/Administrator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iterations_infor.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67446">
+              <caret line="2498" column="126" selection-start-line="2498" selection-start-column="126" selection-end-line="2498" selection-end-column="126" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/property.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nw/program/K_means.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>k</find>
+      <find>fitness</find>
+      <find>Initia_data</find>
+      <find>rwd.Read_write(GDpath,TFilepath,Row);</find>
+      <find>Write_line</find>
+      <find>**************</find>
+      <find>TFilepath</find>
+      <find>filepath</find>
+      <find>Read_write写入</find>
+      <find>半径：</find>
+      <find>all=934 normal=931 abnormal=3 newdata=0</find>
+      <find>all=227 normal=1 abnormal=226 newdata=0</find>
+      <find>1831 abnormal=26</find>
+      <find>normal=844 abnormal=64</find>
+      <find>all=3268 normal=1984 abnormal=516 newdata=768</find>
+      <find>all=3268 normal=1984 abnormal=516</find>
+      <find>normal=1667 abnormal=9</find>
+      <find>normal=1984 abnormal=516</find>
+      <find>Read_write</find>
+      <find>1836 abnormal=26</find>
+      <find>normal=913 abnormal=33</find>
+      <find>normal=1 abnormal=226</find>
+      <find>normal=1984 abnormal=516</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/nw/program/Administrator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/nw/program/K_means.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Tools.java" />
+        <option value="$PROJECT_DIR$/src/od/program/Abnormal_data_monitoring.java" />
+        <option value="$PROJECT_DIR$/src/nw/program/Read_Write.java" />
+        <option value="$PROJECT_DIR$/src/data/process/StatisticResult.java" />
+        <option value="$PROJECT_DIR$/src/nw/program/StatisticResult.java" />
+        <option value="$PROJECT_DIR$/Program_Explanation.txt" />
+        <option value="$PROJECT_DIR$/src/nw/program/Red_Write_data.java" />
+        <option value="$PROJECT_DIR$/mergeclass.txt" />
+        <option value="$PROJECT_DIR$/coded_data.txt" />
+        <option value="$PROJECT_DIR$/src/nw/program/Read_Write_data.java" />
+        <option value="$PROJECT_DIR$/src/od/program/Tools.java" />
+        <option value="$PROJECT_DIR$/result.txt" />
+        <option value="$PROJECT_DIR$/Configuration.properties" />
+        <option value="$PROJECT_DIR$/src/nw/program/Genetic_Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/nw/program/K_means.java" />
+        <option value="$PROJECT_DIR$/src/nw/program/Administrator.java" />
+        <option value="$PROJECT_DIR$/iterations_infor.txt" />
+        <option value="$PROJECT_DIR$/src/data/process/Statistical.java" />
+        <option value="$PROJECT_DIR$/src/nw/program/Tools.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="705" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kdd_new_program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kdd_new_program" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kdd_new_program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kdd_new_program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kdd_new_program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kdd_new_program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="process" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kdd_new_program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kdd_new_program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542195166661" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nw.program" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Myprofile\github\Project\Backup_File\Kdd_new_program" />
+      <recent name="C:\Myprofile\github\Project\Backup_File\Kdd_new_program\src\data\process" />
+      <recent name="C:\Myprofile\github\Project\Backup_File\Kdd_new_program\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Tools">
+    <configuration name="Administrator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="od.program.Administrator" />
+      <module name="Kdd_new_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="od.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Administrator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nw.program.Administrator" />
+      <module name="Kdd_new_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nw.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.process.CodeData" />
+      <module name="Kdd_new_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.process.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Statistical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data.process.Statistical" />
+      <module name="Kdd_new_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.process.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tools" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nw.program.Tools" />
+      <module name="Kdd_new_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nw.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeData" />
+      <item itemvalue="Application.Statistical" />
+      <item itemvalue="Application.Administrator" />
+      <item itemvalue="Application.Administrator (1)" />
+      <item itemvalue="Application.Tools" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tools" />
+        <item itemvalue="Application.Administrator" />
+        <item itemvalue="Application.Statistical" />
+        <item itemvalue="Application.Administrator (1)" />
+        <item itemvalue="Application.CodeData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d2848d-2a97-4100-9e2d-a334c8864220" name="Default Changelist" comment="" />
+      <created>1541985295952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541985295952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3355049" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3995657" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/data/process/GetStrPropertiesValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify[max2].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[min1].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[max1].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[min0].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[min2].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[max0].txt" />
+    <entry file="file://$PROJECT_DIR$/src/nw/program/Read_Write.java" />
+    <entry file="file://$PROJECT_DIR$/src/nw/program/StatisticResult.java" />
+    <entry file="file://$PROJECT_DIR$/src/data/process/CodeData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coded_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="2622" selection-start-line="2622" selection-end-line="2622" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/od/program/Red_Write_data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify[0].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[1].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[2].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[3].txt" />
+    <entry file="file://$PROJECT_DIR$/classify[4].txt" />
+    <entry file="file://$PROJECT_DIR$/Kdd_new_program.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program_Explanation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/od/program/Statistical_all.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mergeclass.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8478">
+          <caret line="410" lean-forward="true" selection-start-line="410" selection-end-line="410" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/od/program/Abnormal_data_monitoring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="207" column="48" selection-start-line="207" selection-start-column="48" selection-end-line="207" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test0/classify[3].txt" />
+    <entry file="file://$PROJECT_DIR$/test0/classify[2].txt" />
+    <entry file="file://$PROJECT_DIR$/test0/classify[1].txt" />
+    <entry file="file://$PROJECT_DIR$/test0/classify[0].txt" />
+    <entry file="file://$PROJECT_DIR$/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nw/program/Administrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/process/Statistical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.txt" />
+    <entry file="file://$PROJECT_DIR$/src/od/program/Remove_duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nw/program/Read_Write_data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/od/program/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/od/program/Administrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iterations_infor.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67446">
+          <caret line="2498" column="126" selection-start-line="2498" selection-start-column="126" selection-end-line="2498" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/property.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nw/program/Genetic_Algorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nw/program/K_means.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nw/program/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="56" column="47" lean-forward="true" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kdd_new_program</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
